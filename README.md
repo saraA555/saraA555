@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ###
 <br clear="both">
-
-
 <p align="left">✨My name is Sara Ahmed.<br>🎓 Graduate From the Faculty of Computers and Informatics.<br>💻 Full Stack .NET Developer(.NET Core + Angular).<br>📚 Graduated from ITI 4-month intensive training program.<br>🚀 Constantly learning new technologies.</p>
 
 
